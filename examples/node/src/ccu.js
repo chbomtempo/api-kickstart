@@ -22,7 +22,7 @@ Example of using the Akamai OPEN CCU (Purge) API
 https://developer.akamai.com/api/purge/ccu/overview.html
 
 Helpful information:
-- https://community.akamai.com/community/developer/blog/2015/08/19/getting-started-with-the-v2-open-ccu-api
+- https://community.akamai.com/community/developer/blog/2015/08/20/getting-started-with-the-v2-open-ccu-api
 */
 
 path = require('path'),
